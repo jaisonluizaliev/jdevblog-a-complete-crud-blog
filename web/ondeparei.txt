@@ -1,0 +1,9 @@
+servidor esta em projetos/api-json-server
+
+criação de tela de postagem...ok
+
+criar tela de edição
+
+criar tela de deletar com pergunta...
+
+

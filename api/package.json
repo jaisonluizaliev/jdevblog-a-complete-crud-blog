@@ -1,0 +1,12 @@
+{
+  "name": "api-json-server",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "json-server --watch db.json --port 3004"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
