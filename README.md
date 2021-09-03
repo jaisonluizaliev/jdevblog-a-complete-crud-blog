@@ -7,6 +7,7 @@
 ## nextjs
 ## styled-components
 ## react
+## axios
 
 # > Api
 ## json-server
